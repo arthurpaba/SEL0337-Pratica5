@@ -1,7 +1,7 @@
 
 
-# SEL0337 — Projetos em Sistemas Embarcados (EESC-USP)
-## Prática 5: SystemD e Controle de Versão com Git/GitHub
+# SEL0337 — Projetos em Sistemas Embarcados 
+## Prática 5: Boot Inicial Placa
 
 **Integrantes:**
 * Arthur Palhares Barbieri — N° USP: `15697357`
